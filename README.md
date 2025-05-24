@@ -21,7 +21,7 @@
   <img alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
   <img alt="HTML5" title="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
   <img alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-      <img alt="WebStorm" title="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" />
+  <img alt="WebStorm" title="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" />
   <img alt="Vite" title="Vite" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
 </p>
 
@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mahei&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=denis-mahei&theme=tokyonight&hide_border=true" />
 </p>
 
