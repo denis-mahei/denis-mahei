@@ -21,12 +21,13 @@
   <img alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
   <img alt="HTML5" title="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
   <img  alt="CSS3"  title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
   <img alt="WebStorm" title="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" />
   <img alt="Vite" title="Vite" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
   <img alt="npm" title="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" />
   <img alt="terminal" title="terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
   <img alt="gh-extensions" title="GitHub CLI" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/gh-extension/gh-extension.png" />
+  <img alt="bash" title="bash" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+  <img alt="json" title="json" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" />
 </p>
 
 ---
