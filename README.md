@@ -23,6 +23,9 @@
   <img alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
   <img alt="WebStorm" title="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" />
   <img alt="Vite" title="Vite" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
+  <img alt="npm" title="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" />
+  <img alt="Git" title="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img alt="GitHub" title="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 </p>
 
 ---
