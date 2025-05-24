@@ -40,10 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mahei&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=denis-mahei&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
