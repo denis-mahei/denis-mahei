@@ -17,15 +17,16 @@
 <p align="left">
   <img alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img alt="React" title="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img alt="Redux" title="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" />
+  <img alt="Redux" title="Redux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
   <img alt="HTML5" title="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-  <img alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img  alt="CSS3"  title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
   <img alt="WebStorm" title="WebStorm" width="32px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" />
   <img alt="Vite" title="Vite" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
   <img alt="npm" title="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" />
-  <img alt="Git" title="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-  <img alt="GitHub" title="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="terminal" title="terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+  <img alt="gh-extensions" title="GitHub CLI" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/gh-extension/gh-extension.png" />
 </p>
 
 ---
