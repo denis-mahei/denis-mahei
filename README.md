@@ -34,7 +34,7 @@
 
 ### 📫 Get in touch:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Denys%20Mahei-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-mahei-491477333/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Denys%20Mahei-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-mahei-dev)
 [![Telegram Badge](https://img.shields.io/badge/-denmahei-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/denmahei)
 [![Gmail Badge](https://img.shields.io/badge/-denmahei@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denmahei@gmail.com)
 
