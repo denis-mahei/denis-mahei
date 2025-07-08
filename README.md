@@ -18,6 +18,7 @@
   <img alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img alt="React" title="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
   <img alt="Redux" title="Redux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+  <img alt="react-router" title="react-router" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" />
   <img alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
   <img alt="HTML5" title="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
   <img alt="CSS3" title="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -29,6 +30,12 @@
   <img alt="bash" title="bash" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
   <img alt="json" title="json" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" />
   <img alt="Node.js" title="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+  <img alt="express" title="express.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  <img alt="mongodb" title="mongodb" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img alt="mongoose" title="mongoose" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" />
+  <img alt="nodemon" title="nodemon" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-original.svg" />
+  <img alt="ohmyzsh" title="ohmyzsh" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ohmyzsh/ohmyzsh-original.svg" />
+  <img alt="postman" title="postman" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
 </p>
 
 ---
