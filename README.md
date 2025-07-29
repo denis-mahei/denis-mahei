@@ -37,6 +37,7 @@
   <img alt="ohmyzsh" title="ohmyzsh" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ohmyzsh/ohmyzsh-original.svg" />
   <img alt="postman" title="postman" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
   <img alt="swagger" title="swagger" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
+  <img alt="angular" title="angular" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
 </p>
 
 ---
