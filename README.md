@@ -15,8 +15,9 @@
 ### 🚀 Tech Stack:
 
 <p align="left">
-  <img alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
   <img alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+  <img alt="JavaScript" title="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img alt="NextJS" title="NextJS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" />
   <img alt="React" title="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
   <img alt="Redux" title="Redux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img alt="react-router" title="react-router" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" />
